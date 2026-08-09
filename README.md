@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dataman-git/agentic_ai_for_anomaly_detection/main/The_frontcover_75_925.png"
   n="center" 
-  width="250">
+  width="600">
 </p>
 
 
