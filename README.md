@@ -114,18 +114,17 @@ At the same time, this expanded responsibility does not replace the need for str
 
 ## 📈 Why Read This Book
 
-This book covers both how to build individual anomaly detection models and how to design agentic AI systems.
+This book cover both how to build individual anomaly detection models, and to design agentic AI systems. You will learn how to:
 
-You will learn how to:
+- Understand the foundations of anomaly detection.
+- Apply classical and modern anomaly detection techniques.
+- Build deep-learning-based anomaly detection solutions.
+- Integrate anomaly detection models into agentic AI systems.
+- Design agentic skills, tools, and orchestration engines.
+- Automate end-to-end anomaly detection workflows.
+- Build trustworthy systems with governance, auditability, and model risk management.
 
-- Transform anomaly detection models into reusable, modular tools.
-- Dynamically select and combine models based on data characteristics and business context.
-- Use Large Language Models (LLMs) for structured reasoning and orchestration.
-- Generate grounded explanations and connect model outputs to actionable decisions.
-- Design systems with governance, reproducibility, and auditability in mind.
-- Support enterprise deployment through controlled workflows and model risk management.
-
-In addition, this edition places a stronger emphasis on critical considerations such as governance, reliability, and model risk management. These elements are essential for deploying systems in enterprise environments, particularly in regulated industries where transparency, accountability, and consistency are paramount.
+This edition places greater emphasis on operationalizing anomaly detection through agentic AI systems, with a focus on reliability, governance, and enterprise deployment.
 
 ---
 
