@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dataman-git/agentic_ai_for_anomaly_detection/main/The_frontcover_75_925.png"
   n="center">
-  <strong>A Practical Guide to Building Intelligent, Autonomous Systems for Detecting Anomalies in Data, Operations, and Business Processes</strong>
+  <strong>Building Your Own Agentic AI System Step by Step</strong>
 </p>
 
 ## 🚀 What's New in the Third Edition
