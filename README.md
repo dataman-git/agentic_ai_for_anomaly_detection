@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Third Edition • Previously published as <em>The Handbook of Anomaly Detection</em>
+The Third Edition of <em>The Handbook of Anomaly Detection</em>
 </p>
 
 ## 🚀 What's New in the Third Edition
