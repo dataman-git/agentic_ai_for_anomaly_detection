@@ -12,21 +12,12 @@ The Third Edition of <em>The Handbook of Anomaly Detection</em>
 
 ## 🚀 What's New in the Third Edition
 
-The first and second editions of this book were written to provide a practical and comprehensive introduction to anomaly detection methods. It was both rewarding and humbling to see the strong, natural, and organic interest the book generated among practitioners, researchers, and educators. That response confirmed a clear need for guidance in this space.
+The first and second editions of this book were written to provide a practical and comprehensive introduction to anomaly detection methods. It was both rewarding and humbling to see the strong and organic demand the book generated among practitioners, researchers, and educators. That response confirmed a clear need for grounded, applied guidance in this space.
 
 The field has evolved rapidly. In particular, the emergence of agentic AI and system-level intelligence has reshaped how models are used in practice. This third edition is a direct response both to reader demand and to the speed of innovation in AI.
 
-One of the most noticeable changes is a complete restructuring of the book. In this edition, methods are grouped according to their underlying intuition so that readers can more naturally compare approaches and understand their trade-offs. This organization reflects how practitioners think about anomaly detection in real-world settings. The third edition also significantly expands its coverage of deep learning methods for anomaly detection.
-
-The most significant enhancement, however, is the introduction of **agentic anomaly detection**.
-
-In this book, agentic AI is not presented as a substitute for anomaly detection methods. Instead, it is treated as a controlled orchestration layer built on top of them. Readers will learn how to:
-
-- Expose anomaly detection models as reusable tools
-- Define common interfaces across models
-- Support dynamic model selection
-- Route workflows based on data characteristics
-- Connect model outputs to thresholding, explanation, action, and governance
+This edition significantly expands its coverage of deep learning for anomaly detection, including neural networks, convolutional neural networks (CNNs), autoencoders, and variational autoencoders for both structured and image data.
+The most significant enhancement, however, is the introduction of agentic anomaly detection. In this book, agentic AI is not presented as a substitute for anomaly detection methods. Instead, it is treated as a controlled orchestration layer over them. Readers will learn how to expose anomaly detection models as reusable tools, define common interfaces, support dynamic model selection, route workflows based on data characteristics, and connect model outputs to thresholding, explanation, action, and governance. 
 
 This design preserves statistical rigor while making anomaly detection systems more flexible, interactive, and operational.
 
@@ -60,55 +51,11 @@ By applying these principles in practice, you will be able to tailor agent capab
 
 ## 🏗️ Architects of AI Systems
 
-The rise of agentic AI systems reflects a broader shift from building individual models to designing complete AI systems.
+The rise of agentic AI systems reflects an expansion from building individual models to designing complete agentic AI systems. Effective agents rely on principled architectures that integrate domain knowledge, decision logic, tool orchestration, validation, and governance. Systems such as PyOD’s OD-Expert demonstrate these ideas in practice.
+As AI systems become more capable, success depends not only on building models but also on designing how models, data, tools, and workflows work together. Effective solutions require model selection, data preparation, threshold calibration, explanation, governance, and operational decision support.
 
-Effective agents rely on principled architectures that integrate:
+In this new paradigm, practitioners remain expert model builders while also becoming architects of AI systems. Their responsibilities expand beyond developing individual models to designing how models are encapsulated as reusable tools, how workflows are structured, how decisions are coordinated, and how systems remain reliable over time. This includes defining tool interfaces, enforcing guardrails, validating execution paths, managing model selection logic, and supporting governance and auditability. At the same time, this expanded responsibility does not diminish the importance of strong modeling expertise; robust AI systems still depend on sound statistical and machine learning foundations.
 
-- Domain knowledge
-- Decision logic
-- Tool orchestration
-- Validation mechanisms
-- Governance frameworks
-
-Systems such as **PyOD's OD-Expert** demonstrate these concepts in practice.
-
-This third edition also reflects a broader transformation in the role of the data scientist.
-
-Traditionally, data scientists focused on building models, tuning hyperparameters, and improving predictive performance. Increasingly, however, their responsibilities extend beyond individual models to the design of complete AI systems. They must determine:
-
-- How models are selected
-- How data flows through analytical components
-- How decisions are orchestrated
-- How outputs are connected to actions, explanations, and governance
-
-Effective solutions require:
-
-- Dataset inspection
-- Data preprocessing
-- Model selection
-- Threshold calibration
-- Model comparison
-- Explainability
-- Operational decision support
-
-**In this paradigm shift, data scientists remain expert model builders while also becoming architects of AI systems.**
-
-Their role expands to designing:
-
-- Reusable model tools
-- Agent workflows
-- Decision coordination frameworks
-- Reliable operational systems
-
-This includes:
-
-- Defining tool interfaces
-- Enforcing guardrails
-- Validating execution paths
-- Managing model-selection logic
-- Supporting governance and auditability
-
-At the same time, this expanded responsibility does not replace the need for strong modeling and statistical expertise.
 
 ---
 
@@ -130,15 +77,6 @@ This edition places greater emphasis on operationalizing anomaly detection throu
 
 ## 👥 Who This Book Is For
 
-This book is designed for a broad audience interested in anomaly detection, machine learning, and agentic AI. It will be valuable to readers seeking both a solid understanding of anomaly detection methods and a practical framework for building intelligent AI systems.
+This book is intended for data scientists, machine learning practitioners, AI engineers, researchers, students, and professionals working in domains such as fraud detection, cybersecurity, healthcare analytics, operational monitoring, and risk management.
 
-### Primary Audiences
-
-#### Data Scientists and Machine Learning Practitioners
-Professionals who want to deepen their understanding of anomaly detection and learn how to integrate analytical models into larger AI systems.
-
-#### AI Engineers
-Engineers responsible for building, deploying, and maintaining intelligent applications in production environments.
-
-#### Researchers and Students
-Graduate students, advanced undergraduates, and researchers in data science, artificial intelligence, and applied machine learning who seek a practical and application-oriented treatment of the subject.
+Whether your goal is to understand anomaly detection methods, develop deep learning solutions, or build agentic AI systems, this book provides both the theoretical foundations and practical guidance needed for real-world deployment.
