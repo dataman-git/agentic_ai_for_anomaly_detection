@@ -1,10 +1,11 @@
 # Agentic AI for Anomaly Detection
 
 <p align="center">
-raw.githubusercontent.com/dataman-git/agentic_ai_for_anomaly_detection/main/The_frontcover_75_925.png"
-alt="Agentic AI for Anomaly Detection"
-width="250">
+  <img src="https://raw.githubusercontent.com/dataman-git/agentic_ai_for_anomaly_detection/main/The_frontcover_75_925.png"
+  n="center" 
+  width="250">
 </p>
+
 
 ## 🚀 What's New in the Third Edition
 
