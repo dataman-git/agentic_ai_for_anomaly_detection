@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dataman-git/agentic_ai_for_anomaly_detection/main/The_frontcover_75_925.png"
   n="center">
-  <strong>Building Your Own Agentic AI System Step by Step</strong>
 </p>
 
 ## 🚀 What's New in the Third Edition
