@@ -6,10 +6,6 @@
   width="600">
 </p>
 
-
-<p align="center">
-<strong>Building Your Own Agentic AI Systems Step by Step</strong>
-</p>
 <p align="center">
 Third Edition • Previously published as <em>The Handbook of Anomaly Detection</em>
 </p>
